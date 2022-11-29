@@ -1,0 +1,2 @@
+29/11/22 : Hey, I am beginning the 1st Course of Andrew Ng from DeepLearning.Ai. I will store all the codes on a remote repository
+owned by me. It will be a public repository and this is the first file that I will push to that repo.
