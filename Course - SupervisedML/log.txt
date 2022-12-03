@@ -6,3 +6,7 @@ online sources. I came across an idea called backward elimination that I will lo
 I will probably re-implement my multiple linear regression model to train it better.
 Also, a useful feature that I was previously unaware of that would be handy in multiple linear regression is subplots in matplotlib
 to plot graphs of multiple features with the target.
+
+3/12/22 : Completed Course 1: Supervised Learning - Regression and Classification
+I came across some useful NumPy functions, some of which I have already used in my codes, 
+like np.dot(), np.mean(), np.exp(), np.zeros_like(), np.cos(), np.arange(), np.c_(), np.ptp()
